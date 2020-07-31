@@ -27,6 +27,8 @@ hs_err_pid*
 **/nbproject/Package-*.bash
 build/
 nbbuild/
+nbproject/
 dist/
 nbdist/
 .nb-gradle/
+manifest.mf
