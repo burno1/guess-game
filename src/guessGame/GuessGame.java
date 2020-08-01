@@ -6,7 +6,7 @@ import javax.swing.JFrame;
  *
  * @author Bruno Fernandes
  */
-public class JogoGourmet {
+public class guessGame {
 
     /**
      * @param args the command line arguments
